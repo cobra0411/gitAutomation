@@ -3,8 +3,8 @@ import os
 from github import Github
 
 path='/home/cobra/Desktop/projects/'
-username='cobra0411'
-password='ascob1104'
+username='######'
+password='#########'
 
 def createRepo():
         os.makedirs(path+str(sys.argv[1]))
