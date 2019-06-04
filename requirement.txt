@@ -1,0 +1,3 @@
+# packages in environment at /home/cobra/miniconda3/envs/gitautomation:
+#
+# Name                    Version                   Build  Channel
